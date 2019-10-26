@@ -1,6 +1,6 @@
 use html5ever::tree_builder::{ElementFlags, NodeOrText, QuirksMode, TreeSink};
 use html5ever::{Attribute, QualName};
-use markup5ever::ExpandedName;
+use html5ever::ExpandedName;
 
 use tendril::StrTendril;
 
